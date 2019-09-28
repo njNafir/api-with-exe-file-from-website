@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'e0e=iz1h@db$m2s-(aba!d=3rr8o4&5*txxl8v_han18cbaoq)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['bdtask01.herokuapp.com']
 
