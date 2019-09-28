@@ -1,0 +1,1 @@
+web: gunicorn bdtask01.wsgi
